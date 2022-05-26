@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,188 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Andrew Stahl",
+      "email": "andrewstahl96@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Paul",
+      "email": "paul@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Andy",
+      "email": "andy@apple.com",
+      "id": 3
+    },
+    {
+      "name": "Jess",
+      "email": "jess@paycom.com",
+      "id": 4
+    },
+    {
+      "name": "Mom",
+      "email": "mom_email",
+      "id": 5
+    },
+    {
+      "name": "Mom",
+      "email": "mom_email",
+      "id": 6
+    },
+    {
+      "name": "Steve",
+      "email": "steve@apple.com",
+      "id": 7
+    },
+    {
+      "name": "paul",
+      "email": "paulemail",
+      "id": 8
+    },
+    {
+      "name": "paul",
+      "email": "paulemail",
+      "id": 9
+    },
+    {
+      "name": "paul",
+      "email": "paulemail",
+      "id": 10
+    },
+    {
+      "name": "paul",
+      "email": "paulemail",
+      "id": 11
+    },
+    {
+      "name": "paul",
+      "email": "paulemail",
+      "id": 12
+    },
+    {
+      "name": "Steve",
+      "email": "steve@apple.com",
+      "id": 13
+    },
+    {
+      "name": "Steve",
+      "email": "steve@apple.com",
+      "id": 14
+    },
+    {
+      "name": "Mom",
+      "email": "mom_email",
+      "id": 15
+    },
+    {
+      "name": "Steve",
+      "email": "steve@apple.com",
+      "id": 16
+    },
+    {
+      "name": "Steve",
+      "email": "steve@apple.com",
+      "id": 17
+    },
+    {
+      "name": "Dad",
+      "email": "dad@apple.com",
+      "id": 18
+    },
+    {
+      "name": "Allie",
+      "email": "allie@apple.com",
+      "id": 19
+    },
+    {
+      "name": "Nick",
+      "email": "nick@apple.com",
+      "id": 20
+    },
+    {
+      "name": "Nick",
+      "email": "nick@apple.com",
+      "id": 21
+    },
+    {
+      "name": "Nick",
+      "email": "nick@apple.com",
+      "id": 22
+    },
+    {
+      "name": "Nick",
+      "email": "nick@apple.com",
+      "id": 23
+    },
+    {
+      "name": "Nick",
+      "email": "nick@apple.com",
+      "id": 24
+    },
+    {
+      "name": "Nick",
+      "email": "nick@apple.com",
+      "id": 25
+    },
+    {
+      "name": "Nick",
+      "email": "nick@apple.com",
+      "id": 26
+    },
+    {
+      "name": "Nick",
+      "email": "nick@apple.com",
+      "id": 27
+    },
+    {
+      "name": "Nick",
+      "email": "nick@apple.com",
+      "id": 28
+    },
+    {
+      "name": "Nick",
+      "email": "nick@apple.com",
+      "id": 29
+    },
+    {
+      "name": "Nick",
+      "email": "nick@apple.com",
+      "id": 30
+    },
+    {
+      "name": "Mom",
+      "email": "mom_email",
+      "id": 31
+    },
+    {
+      "name": "Mom",
+      "email": "mom_email",
+      "id": 32
+    },
+    {
+      "name": "Dad",
+      "email": "dad@apple.com",
+      "id": 33
+    },
+    {
+      "name": "Dad",
+      "email": "dad@apple.com",
+      "id": 34
+    },
+    {
+      "name": "Mom",
+      "email": "mom_email",
+      "id": 35
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
